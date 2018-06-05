@@ -22,6 +22,7 @@ View the app development site here: tbc
 `$ npm run start`
 
 For testing:
+
 `$ npm run test`
 
 `$ npm run test --coverage`
