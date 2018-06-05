@@ -6,11 +6,14 @@
   "scripts": {
     "test": "jest",
     "test:coverage": "jest --coverage",
+    "test:cov": "jest && codecov",
     "test:watch": "jest --watch",
     "start": "parcel ./public/index.html",
     "build": "parcel build ./public/index.html"
   },
-  "pre-commit": ["test"],
+  "pre-commit": [
+    "test"
+  ],
   "keywords": [],
   "author": "Jennah, Phat, Tammy, Vanessa",
   "license": "ISC",
@@ -21,6 +24,7 @@
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
+    "codecov": "^3.0.2",
     "eslint": "^4.19.1",
     "eslint-config-recommended": "^2.0.0",
     "eslint-plugin-react": "^7.8.2",
@@ -33,6 +37,8 @@
     "react-dom": "^16.3.2"
   },
   "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true,
     "moduleNameMapper": {
       "\\.(css|less|sass|scss)$": "<rootDir>/__mocks__/styleMock.js",
       "\\.(gif|ttf|eot|svg)$": "<rootDir>/__mocks__/fileMock.js"
