@@ -16,11 +16,14 @@ View the app development site here: tbc
 #### How to run locally
 
 `$ git clone https://github.com/fac-13/GP_ProjectBernadette.git`
+
 `$ npm i`
+
 `$ npm run start`
 
 For testing:
 `$ npm run test`
+
 `$ npm run test --coverage`
 
 ## The Challenge
