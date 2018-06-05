@@ -6,13 +6,6 @@ An accessible, decision tree app built for to help grandparents and other carers
 
 View the app development site here: tbc
 
-#### Tech stack
-* React with styled-components
-* Parcel
-* Jest
-* Node / Express for form handling
-* Hosting: TBC 
-
 #### How to run locally
 
 ```
@@ -27,6 +20,14 @@ For testing:
 $ npm run test
 ```
 
+#### Tech stack
+* React with styled-components
+* Parcel
+* Jest
+* Node / Express for form handling
+* Hosting: TBC 
+
+
 ## The Challenge
 There are an estimated 200,000 children living in kinship care in the UK due to many often complex circumstances that result in the need for kinship care, yet these kinship carers have significant unmet support needs. 62% of carers say they need more advice and information.
 
@@ -40,10 +41,10 @@ After a one day Design Thinking workshop with Product Owner and advice expert fr
 
 Aims of the solution: 
 
-- [ ] Simple to use and accessible 
-- [ ] Identify the carer's circumstances and if they are a 'kinship carer'
-- [ ] Signpost the carer to relevant information
-- [ ] Should the carer want more advice, send the carer's contact info and information to the advice service for a call back. 
+* Simple to use and accessible 
+* Identify the carer's circumstances and if they are a 'kinship carer'
+* Signpost the carer to relevant information
+* Should the carer want more advice, send the carer's contact info and information to the advice service for a call back. 
 
 ------
 #### MVP Target User
@@ -57,14 +58,14 @@ Bernadette is prompted to answer questions to ascertain whether or not she is a 
 
  As a user, Bernadette can:
 
-- [ ] See a popup on the website that grabs her attention and leads her to My Wayfinder.
-- [ ] Can click on button on the popup and be taken to a new screen to begin answering questions.
-- [ ] See and click on simple option answers to help her answer each question.
-- [ ] Scroll back and change her answer to any of the questions.
-- [ ] Receive a link to further relevant information on the GP website.
-- [ ] Be presented with an option to “book” a phone call from the GP advice service if she requires more advice.
-- [ ] Submit a form with her answers and contact information to receive an advice callback.
-- [ ] Understand how her personal infomation will be stored and used by GP. 
+* See a popup on the website that grabs her attention and leads her to My Wayfinder.
+* Can click on button on the popup and be taken to a new screen to begin answering questions.
+* See and click on simple option answers to help her answer each question.
+* Scroll back and change her answer to any of the questions.
+* Receive a link to further relevant information on the GP website.
+* Be presented with an option to “book” a phone call from the GP advice service if she requires more advice.
+* Submit a form with her answers and contact information to receive an advice callback.
+*  Understand how her personal infomation will be stored and used by GP. 
 ------------
 #### Prototype
 
