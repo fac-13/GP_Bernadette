@@ -10,9 +10,9 @@ test('Test JSON data for flowchart contains no errors', () => {
       return;
     }
     // console.log(node.question);
-    node.options.map((obj) => {
+    node.options.map(obj => {
       // console.log(obj.answer);
-      treeWalker(wayfinder[obj.goto]);
+      treeWalker(wayfinder[obj.oto]);
     });
   }
   // treeWalker(wayfinder.start);
