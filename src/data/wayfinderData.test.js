@@ -12,7 +12,7 @@ test('Test JSON data for flowchart contains no errors', () => {
     // console.log(node.question);
     node.options.map(obj => {
       // console.log(obj.answer);
-      treeWalker(wayfinder[obj.oto]);
+      treeWalker(wayfinder[obj.goto]);
     });
   }
   // treeWalker(wayfinder.start);
