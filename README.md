@@ -44,7 +44,8 @@ Aims of the solution:
 * Simple to use and accessible 
 * Identify the carer's circumstances and if they are a 'kinship carer'
 * Signpost the carer to relevant information on the website
-* Should the carer want more advice, send the carer's contact info and other details to the advice service for a call back 
+* Should the carer want more advice, send the carer's contact info and other details to the advice service for a call back
+* Adhere to the Grandparents Plus brand guidelines
 
 ------
 #### MVP Target User
@@ -70,6 +71,8 @@ Bernadette is prompted to answer questions to ascertain whether or not she is a 
 ## Prototype
 
 https://invis.io/37JYT43QNUC
+
+ ![](https://i.imgur.com/wGMgYzh.png)
 
 ## Decision Tree Flow Chart 
 ![](https://i.imgur.com/OUMheGt.png)
