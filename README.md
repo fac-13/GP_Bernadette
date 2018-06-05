@@ -2,7 +2,7 @@
 
 # Project Bernadette (working title: My Wayfinder)
 
-An accessible, decision tree app built for to help grandparents and other carers visiting the [Grandparents Plus](https://www.grandparentsplus.org.uk/) website recognize their status as a 'Kinship Carer', guide them to relevant resources, and provide information for an advice callback from the charity. 
+An accessible, decision tree web app built to help grandparents and other carers visiting the [Grandparents Plus](https://www.grandparentsplus.org.uk/) website recognize their status as a 'Kinship Carer', guide them to relevant resources, and provide information for an advice callback from the charity. 
 
 View the app development site here: tbc
 
@@ -29,14 +29,14 @@ $ npm run test
 
 
 ## The Challenge
-There are an estimated 200,000 children living in kinship care in the UK due to many often complex circumstances that result in the need for kinship care, yet these kinship carers have significant unmet support needs. 62% of carers say they need more advice and information.
+There are an estimated 200,000 children living in kinship care in the UK due to various complex circumstances that result in the need for kinship care, yet these kinship carers have significant unmet support needs. 62% of carers say they need more advice and information.
 
 Grandparents Plus wanted a digital platform that would enable them to reach more carers with appropriate information by leveraging their exisiting online resources and alleviating pressure on their telepone helpline.
 
 
 ## Our Solution
 
-After a one day Design Thinking workshop with Product Owner and advice expert from Grandparents Plus, we decided to create **My Wayfinder** decision tree app that to help users understand jargon and find relevant resources more quickly. and provide useful information about their personal circumstances to get the most out of an advice callback. 
+After a one day Design Thinking workshop with the Product Owner and advice expert from Grandparents Plus, we decided to create **My Wayfinder**, a decision tree app to help users understand jargon and find relevant resources more quickly. The application will also provide useful information about their personal circumstances to get the most out of an advice callback. 
 
 
 Aims of the solution: 
@@ -44,7 +44,7 @@ Aims of the solution:
 * Simple to use and accessible 
 * Identify the carer's circumstances and if they are a 'kinship carer'
 * Signpost the carer to relevant information
-* Should the carer want more advice, send the carer's contact info and information to the advice service for a call back. 
+* Should the carer want more advice, send the carer's contact info and other details to the advice service for a call back. 
 
 ------
 #### MVP Target User
