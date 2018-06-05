@@ -3,3 +3,9 @@ node_js:
   - "node"
 notifications:
   - email: false
+install:
+  - npm install -g codecov
+env:
+  - CODECOV_TOKEN=1000aaf6-3a09-4cd2-9411-e781a9ff0429
+  after_success:
+  - npm run test:cov
