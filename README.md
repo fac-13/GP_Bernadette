@@ -2,7 +2,7 @@
 
 # Project Bernadette (working title: My Wayfinder)
 
-An accessible,, decision tree app built for to help grandparents and other carers visiting the [Grandparents Plus](https://www.grandparentsplus.org.uk/) website recognize their status as a 'Kinship Carer', guide them to relevant resources, and provide information for an advice callback from the charity. 
+An accessible, decision tree app built for to help grandparents and other carers visiting the [Grandparents Plus](https://www.grandparentsplus.org.uk/) website recognize their status as a 'Kinship Carer', guide them to relevant resources, and provide information for an advice callback from the charity. 
 
 View the app development site here: tbc
 
@@ -15,17 +15,17 @@ View the app development site here: tbc
 
 #### How to run locally
 
-`$ git clone https://github.com/fac-13/GP_ProjectBernadette.git`
-
-`$ npm i`
-
-`$ npm run start`
+```
+$ git clone https://github.com/fac-13/GP_ProjectBernadette.git\n
+$ npm i
+$ npm run start
+   ```
 
 For testing:
 
-`$ npm run test`
-
-`$ npm run test --coverage`
+```
+$ npm run test
+```
 
 ## The Challenge
 There are an estimated 200,000 children living in kinship care in the UK due to many often complex circumstances that result in the need for kinship care, yet these kinship carers have significant unmet support needs. 62% of carers say they need more advice and information.
