@@ -4,9 +4,9 @@
 
 An accessible, decision tree web app built to help grandparents and other carers visiting the [Grandparents Plus](https://www.grandparentsplus.org.uk/) website recognize their status as a 'Kinship Carer', guide them to relevant resources, and provide information for an advice callback from the charity. 
 
-View the app development site here: tbc
+**View the app development site here:** tbc
 
-#### How to run locally
+**How to run locally:**
 
 ```
 $ git clone https://github.com/fac-13/GP_ProjectBernadette.git\n
@@ -14,13 +14,13 @@ $ npm i
 $ npm run start
    ```
 
-For testing:
+**For testing:**
 
 ```
 $ npm run test
 ```
 
-#### Tech stack
+#### Tech stack:
 * React with styled-components
 * Parcel
 * Jest
@@ -43,8 +43,8 @@ Aims of the solution:
 
 * Simple to use and accessible 
 * Identify the carer's circumstances and if they are a 'kinship carer'
-* Signpost the carer to relevant information
-* Should the carer want more advice, send the carer's contact info and other details to the advice service for a call back. 
+* Signpost the carer to relevant information on the website
+* Should the carer want more advice, send the carer's contact info and other details to the advice service for a call back 
 
 ------
 #### MVP Target User
@@ -66,12 +66,14 @@ Bernadette is prompted to answer questions to ascertain whether or not she is a 
 * Be presented with an option to “book” a phone call from the GP advice service if she requires more advice.
 * Submit a form with her answers and contact information to receive an advice call back.
 *  Understand how her personal infomation will be stored and used by GP. 
-------------
-#### Prototype
+
+## Prototype
 
 https://invis.io/37JYT43QNUC
 
-![](https://i.imgur.com/wGMgYzh.png)
+## Decision Tree Flow Chart 
+![](https://i.imgur.com/OUMheGt.png)
+![](https://i.imgur.com/N6VCddy.png)
 
 
 ## Team Roles
